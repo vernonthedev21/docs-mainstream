@@ -1,2 +1,1 @@
-# Main Stream Docs | Setup
-
+# Main Stream Docs | Dope Guide
