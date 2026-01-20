@@ -1,2 +1,2 @@
-# Main Stream Docs
+# Main Stream Docs ~ Setup
 
